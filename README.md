@@ -26,15 +26,14 @@ If you are developing a production application, we recommend using TypeScript an
 
 # Features
 
-Persistent Dark/Light mode, maintained even after logout
+* Persistent Dark/Light mode, maintained even after logout
 
-Image uploading with automatic deletion of the old image
+* Image uploading with automatic deletion of the old image
 
-Full CRUD functionality with sorting and searching
+* Full CRUD functionality with sorting and searching
 
-Role-based Authorization and Authentication
-(e.g., Admin page visibility is restricted)
+* Role-based Authorization and Authentication (e.g., Admin page visibility is restricted)
 
-Test user and mock data available for demo access without registration
+* Test user and mock data available for demo access without registration
 
-Charts and graphs to visualize statistics over the past 6 months
+* Charts and graphs to visualize statistics over the past 6 months
