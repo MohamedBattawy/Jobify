@@ -37,3 +37,7 @@ If you are developing a production application, we recommend using TypeScript an
 * Test user and mock data available for demo access without registration
 
 * Charts and graphs to visualize statistics over the past 6 months
+* 
+# Live Demo
+
+🔗 [Click here to view the live version](https://jobify-abqj.onrender.com/)
