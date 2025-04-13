@@ -16,14 +16,9 @@ const Landing = () => {
       <h1>job <span> tracking </span> app </h1>
 
       <p>
-        I'm baby tousled cliche raclette, artisan four dollar toast tumeric
-        bitters. 8-bit you probably haven't heard of them vaporware, artisan
-        fingerstache plaid. Tumeric four dollar toast biodiesel, mixtape
-        tacos whatever synth. 3 wolf moon freegan selfies, artisan
-        fingerstache plaid. Tumeric four dollar toast biodiesel, mixtape
-        tacos whatever synth. 3 wolf moon freegan selfies, artisan
-        fingerstache plaid.
-      </p>
+  Jobify helps you stay organized and in control of your job search. Track job applications, monitor your progress, and never miss a follow-up again. Whether you're actively applying or just browsing, keep all your opportunities in one place.
+</p>
+
 
       <Link to='/register' className='btn register-link'>Register</Link>
       <Link to='/login' className='btn'>Login/Demo User</Link>
